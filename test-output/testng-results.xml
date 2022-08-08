@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3407" started-at="2022-08-08T00:45:27Z" finished-at="2022-08-08T00:45:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3407" started-at="2022-08-08T00:45:27Z" finished-at="2022-08-08T00:45:30Z">
+      <class name="TC001_GET_Request">
+        <test-method status="PASS" signature="getEmployeesDetails()[pri:0, instance:TC001_GET_Request@ea4a92b]" name="getEmployeesDetails" duration-ms="3382" started-at="2022-08-08T06:15:27Z" finished-at="2022-08-08T06:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeesDetails -->
+      </class> <!-- TC001_GET_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
